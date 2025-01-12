@@ -20,18 +20,16 @@
 <br />
 
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> I'm 18 years old Full-Stack developer from Brasil.</h3>
 </p>
 
  - 🥀 Learning Go and React.js
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with Javascript, Typescript, Vue and others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - I have an interest in Offensive Cybersecurity.
  
- - I do fullstack and a bit of everything :heart:
+ - I do FullStack, with an emphasis on backEnd.
  
  - All About living life at its best.
  
@@ -43,8 +41,8 @@
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/kovokar/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=kovokar&&show_icons=true&theme=radical"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
