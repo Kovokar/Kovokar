@@ -23,7 +23,7 @@
   <h3> I'm 18 years old Full-Stack developer from Brasil.</h3>
 </p>
 
- - 🥀 Learning Go and React.js
+ - Learning Go and React.js
  
  - <i>with Javascript, Typescript, Vue and others.</i>
    
