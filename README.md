@@ -41,7 +41,6 @@
 <a href="https://github.com/kovokar/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=kovokar&&show_icons=true&theme=radical"/>
 </a>
-<!--  -->
 
 <p align="center" >
 
