@@ -34,7 +34,6 @@
     </a>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovokar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
 <br />
 
 ### 🛠 Languages and Tools
@@ -51,7 +50,6 @@
 
 <br />
 
-### 🏆 GitHub Contributions
 
 ![snake gif](https://github.com/kovokar/kovokar/blob/output/github-contribution-grid-snake-dark.svg)
 
