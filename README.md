@@ -1,107 +1,70 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Pedro</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
+    <h1>Hi there, I'm <a href="https://hemant.codes">Pedro</a> 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    </h1>
 </div>
-
-
-
 
 <div align="center">
-<h3>🙎 Pedro Guilherme | 💻 Programming Student | 🛸 Brasil, PI <img </h3>
+    <h3>🙎 Pedro Guilherme | 💻 Programming Student | 🛸 Brasil, PI</h3>
 </div>
 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
+<h5 align="center">
+    <i>⚡️ I don’t trust people who don’t write SQL queries in uppercase ⚡️</i>
+</h5>
+
 <br />
 
-<p align="center">
-  <h3> I'm 18 years old Full-Stack developer from Brasil.</h3>
-</p>
+<h3 align="center">I'm an 18-year-old Full-Stack Developer from Brazil.</h3>
 
- - Learning Go and React.js
- 
- - <i>with Javascript, Typescript, Vue and others.</i>
-   
- - I have an interest in Offensive Cybersecurity.
- 
- - I do FullStack, with an emphasis on backEnd.
- 
- - All About living life at its best.
- 
- 
- <p align="center">
-  <h4> Competitive Programming </h4>
-   </p>
+<ul>
+    <li>🚀 Currently learning Go and React.js</li>
+    <li>💡 Experienced with JavaScript, TypeScript, Vue, and more</li>
+    <li>🔍 Passionate about Offensive Cybersecurity</li>
+    <li>💻 FullStack Developer with an emphasis on Backend</li>
+    <li>🌟 Always striving to live life at its best</li>
+</ul>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<br />
+
+<h4 align="center">🏆 Competitive Programming</h4>
+
+<div align="center" style="display: flex; align-items: center; gap: 10px;">
     <a href="https://github.com/kovokar/github-readme-stats">
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kovokar&&show_icons=true&theme=radical"/>
     </a>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovokar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+<br />
 
-<p align="center" >
+### 🛠 Languages and Tools
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Vue.js" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/laguages/go.svg" alt="Go" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
 
-### - Languages and Tools...
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/laguages/go.svg" alt="go" style="vertical-align:top; margin:4px">
-  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"> -->
-  <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"> -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-
-
- ### - What i do
+### 🏆 GitHub Contributions
 
 ![snake gif](https://github.com/kovokar/kovokar/blob/output/github-contribution-grid-snake-dark.svg)
 
-
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
+    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
 
+<br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
