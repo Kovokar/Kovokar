@@ -43,6 +43,7 @@
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Vue.js" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/laguages/go.svg" alt="Go" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
