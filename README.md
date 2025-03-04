@@ -41,17 +41,16 @@
 <p align="center">
     <!-- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="HTML" style="vertical-align:top; margin:4px"> -->
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" style="vertical-align:top; margin:4px;"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" style="vertical-align:top; margin:4px; max-height: 64px !important;"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" style="vertical-align:top; margin:4px; max-height: 64px;"> 
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" style="vertical-align:top; margin:4px; max-height: 64px"> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px; max-height: 64px"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-icon" style="vertical-align:top; margin:4px"> 
-    <!-- <img src="" alt="golang" style="vertical-align:top; margin:4px">  -->
-    <!-- <img src="" alt="golang" style="vertical-align:top; margin:4px">  -->
+
 
 
 </p>
