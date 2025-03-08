@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-icon" style="vertical-align:top; margin:4px"> 
+<!--     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-icon" style="vertical-align:top; margin:4px">  -->
 
 
 
