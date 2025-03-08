@@ -57,9 +57,6 @@
 
 <br />
 
-
-![snake gif](https://github.com/kovokar/kovokar/blob/output/github-contribution-grid-snake-dark.svg)
-
 <br />
 
 <p align="center">
