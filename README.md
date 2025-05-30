@@ -6,9 +6,6 @@
 
 <div align="center">
     <h3>🙎 Pedro Guilherme | 💻 Programming Student | 🛸 Brasil, PI</h3>
-    <h2>LIXAR PAREDE É UMA BUCETA  <br>
-        BOTA GAYA NESSE CORNO
-    </h2>
 </div>
 
 <h5 align="center">
