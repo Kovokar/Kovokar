@@ -12,7 +12,7 @@
     <i>⚡️ Subquery is life ⚡️</i>
 </h5>
 
-<br />
+<br/>
 
 <h3 align="center">I'm an 19-year-old Full-Stack Developer from Brazil.</h3>
 
