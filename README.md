@@ -24,7 +24,7 @@
     <li>🌟 Always striving to live life at its best</li>
 </ul>
 
-<br />
+<br  />
  
 <h4 align="center">🏆 Competitive Programming</h4>
 
