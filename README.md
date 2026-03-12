@@ -8,10 +8,6 @@
     <h3>🙎 Pedro Guilherme | 💻 Programming Student | 🛸 Brasil, PI</h3>
 </div>
 
-<h5 align="center">
-    <i>⚡️ Subquery is life ⚡️</i>
-</h5>
-
 <br/>
 
 <h3 align="center">I'm an 19-year-old Full-Stack Developer from Brazil.</h3>
