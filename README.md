@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3 align="center">I'm an 19-year-old Full-Stack Developer from Brazil.</h3>
+<h3 align="center">I'm an 20-year-old Full-Stack Developer from Brazil.</h3>
 
 <ul>
     <li>🚀 Currently learning Go and React.js</li>
